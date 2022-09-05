@@ -1,0 +1,12 @@
+.image-linh {
+  display: flex;
+  margin: 50px;
+}
+.text {
+  text-align: center;
+}
+.image1 img {
+    width: 30%;
+}
+
+
